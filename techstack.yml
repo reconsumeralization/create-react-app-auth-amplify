@@ -2,11 +2,11 @@ repo_name: reconsumeralization/create-react-app-auth-amplify
 report_id: a191ad9daf25f844d2af019ee3039796
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:16:56+00:00'
-requested_by: ferdingler
+timestamp: '2024-01-11T12:28:46+00:00'
+requested_by: reconsumeralization
 provider: github
 branch: master
-detected_tools_count: 9
+detected_tools_count: 8
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -46,7 +46,7 @@ tools:
 - name: AWS Amplify
   description: JavaScript Open Source Library with React, React Native Extensions
   website_url: https://github.com/aws/aws-amplify
-  version: 4.3.14
+  version: 6.0.0
   license: Apache-2.0
   open_source: true
   hosted_saas: false
@@ -55,8 +55,8 @@ tools:
   image_url: https://img.stackshare.io/no-img-open-source.png
   detection_source_url: https://github.com/reconsumeralization/create-react-app-auth-amplify/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: Brad Ruoff
-  last_updated_on: 2022-02-25 22:33:40.000000000 Z
+  last_updated_by: snyk-bot
+  last_updated_on: 2023-12-14 17:10:59.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -77,16 +77,6 @@ tools:
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source_url: https://github.com/reconsumeralization/create-react-app-auth-amplify/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Nikhil Swaminathan
-  last_updated_on: 2019-02-08 20:54:55.000000000 Z
-- name: HTML
-  description: Hypertext Markup Language for creating web pages.
-  website_url: http://
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
-  detection_source_url: https://github.com/reconsumeralization/create-react-app-auth-amplify/blob/master/public/index.html
-  detection_source: public/index.html
   last_updated_by: Nikhil Swaminathan
   last_updated_on: 2019-02-08 20:54:55.000000000 Z
 - name: react-dom
