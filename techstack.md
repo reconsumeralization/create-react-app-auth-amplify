@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [reconsumeralization/create-react-app-auth-amplify](https://github.com/reconsumeralization/create-react-app-auth-amplify)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|01/05/24 <br/>Report generated|
+|8<br/>Tools used|01/11/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -73,7 +73,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://github.com/aws/aws-amplify">AWS Amplify</a></sub>
   <br>
-  <sub>v4.3.14</sub>
+  <sub>v6.0.0</sub>
 </td>
 
 <td align='center'>
@@ -88,19 +88,6 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' alt='npm'>
   <br>
   <sub><a href="https://www.npmjs.com/">npm</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-</tr>
-</table>
-
-## Other (1)
-<table><tr>
-  <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
-  <br>
-  <sub><a href="http://">HTML</a></sub>
   <br>
   <sub></sub>
 </td>
